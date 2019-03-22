@@ -23,8 +23,4 @@ Each of these links takes you to a page like this that has the address of the st
 ### Output 
 The final output of this script is a small .csv file that is just a column of all of TCS's store addresses
 
-<img src="https://user-images.githubusercontent.com/38504767/54852769-3485dd80-4cc4-11e9-92df-6de039179bbb.png" width="200" height="700">
-
-https://user-images.githubusercontent.com/38504767/54852769-3485dd80-4cc4-11e9-92df-6de039179bbb.png
-
 <img src="https://user-images.githubusercontent.com/38504767/54852769-3485dd80-4cc4-11e9-92df-6de039179bbb.png">
