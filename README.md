@@ -1,7 +1,7 @@
 # Scraping Store Addresses from The Container Store's Website
 
 ### Description 
-This short script scrapes and cleans the addresses for all of The Container Store's stores. It outputs a .csv file with 1 column, the address. 
+This short script scrapes and cleans the addresses for all of The Container Store's stores. It outputs a .csv file with 1 column, the address. Note: I checked the company's robot.txt beforehand and it does not prohibit scraping store locations. 
 
 ### Site and HTML
 The Company's main site has all of the store locations displayed on the main page. Clicking each store sends you to an individual page for that store
